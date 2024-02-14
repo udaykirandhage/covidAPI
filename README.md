@@ -192,31 +192,7 @@ Returns the statistics of total cases, cured, active, deaths of a specific state
 
 ```
 
-### API 8
 
-#### Path: `/districts/:districtId/details/`
-
-#### Method: `GET`
-
-#### Description:
-
-Returns an object containing the state name of a district based on the district ID
-
-#### Response
-
-```
-
-{
-  stateName: "Maharashtra"
-}
-
-```
-
-<br/>
-
-Use `npm install` to install the packages.
-
-**Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
 =======

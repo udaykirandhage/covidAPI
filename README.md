@@ -193,9 +193,3 @@ Returns the statistics of total cases, cured, active, deaths of a specific state
 ```
 
 
-
-**Use Common JS module syntax.**
-=======
-# covidAPI
-Api for covid Dash board
->>>>>>> origin/main
